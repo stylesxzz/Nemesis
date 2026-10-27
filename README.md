@@ -6,6 +6,18 @@
 
 Este repositório começa com um MVP funcional de interface e backend. A integração de voz usa APIs de fala do navegador quando disponíveis; o agente de sistema expõe apenas ações explicitamente permitidas. Não é uma ferramenta de pentest.
 
+## Referências visuais
+
+### Identidade IGGYI e conceito da interface
+
+![Referência visual IGGYI NEMESIS AI](docs/images/iggyi-nemesis-brand-reference.svg)
+
+### Arquitetura planejada
+
+![Diagrama de arquitetura do NEMESIS AI](docs/images/nemesis-architecture.svg)
+
+> Estas imagens são referências conceituais para orientar o desenvolvimento; não representam capturas de tela de uma versão já executada.
+
 ## Arquitetura
 
 - **Frontend:** React + Vite, chat responsivo, controles de voz e painel de tarefas.
